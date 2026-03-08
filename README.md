@@ -12,7 +12,7 @@ You might be familiar with a project I work on called [AltanaViewer](https://git
 **AltanaListener** was built from the ground up to fix that. It is completely open-source, highly stable, and engineered purely for the best audio experience possible.
 
 ## ✨ Features
-We have built a completely custom audio engine and UI to give you full control over your FFXI music library:
+Voliathon has built a completely custom audio engine and UI to give you full control over your FFXI music library:
 
 * **🔍 Auto-Discovery:** Automatically finds your Final Fantasy XI installation and loads all the background music (`.bgw` files) instantly.
 * **⭐ Favorites System:** Easily star your favorite tracks and filter your list with a single click.
@@ -32,6 +32,17 @@ We have built a completely custom audio engine and UI to give you full control o
 * Windows OS
 * A valid installation of Final Fantasy XI
 * .NET Framework (WPF / WinForms)
+
+---
+
+### 🚀 How to Update
+To update from a previous version without losing your settings:
+1. Download the new `AltanaListener_Windows.zip` and extract it.
+2. Drag and drop the new `AltanaListener.exe` into your existing folder, replacing the old one. 
+*(Do not delete your `config.json` or `track_names.json` files!)*
+
+### ⚠️ Important Note for v1.0.1 Users
+Because this hotfix fundamentally changes how the app identifies tracks (to fix the duplicate file name bug), any favorites or custom playlists created in v1.0.1 will unfortunately not carry over to v1.0.2. I apologize for the inconvenience, but this new tracking system ensures your data is permanently safe moving forward!
 
 ---
 

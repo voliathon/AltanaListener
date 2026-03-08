@@ -92,7 +92,6 @@ namespace AltanaListener
                 lstPlaylists.ContextMenuStrip = playlistMenu;
             }
 
-            // NEW: Hardwire the About button safely
             if (btnAbout != null)
             {
                 btnAbout.Click += btnAbout_Click;
@@ -242,8 +241,6 @@ namespace AltanaListener
             }
         }
 
-        // --- PLAYLIST MANAGEMENT LOGIC ---
-
         private void DeletePlaylistMenuItem_Click(object sender, EventArgs e)
         {
             if (lstPlaylists.SelectedItem == null) return;
@@ -280,7 +277,7 @@ namespace AltanaListener
             {
                 if (currentSettings.Playlists.ContainsKey(currentPlaylist))
                 {
-                    currentSettings.Playlists[currentPlaylist].Remove(track.FileName);
+                    currentSettings.Playlists[currentPlaylist].Remove(track.TrackId); // UPDATED to use TrackId
                     SaveSettings();
                     ApplySearchFilter(txtSearch.Text);
                 }
@@ -463,9 +460,9 @@ namespace AltanaListener
                             currentSettings.Playlists[plName] = new List<string>();
                         }
 
-                        if (!currentSettings.Playlists[plName].Contains(track.FileName))
+                        if (!currentSettings.Playlists[plName].Contains(track.TrackId)) // UPDATED to use TrackId
                         {
-                            currentSettings.Playlists[plName].Add(track.FileName);
+                            currentSettings.Playlists[plName].Add(track.TrackId); // UPDATED to use TrackId
                             SaveSettings();
                             ReloadPlaylistSidebar();
                             MessageBox.Show($"Added to '{plName}'!", "Playlist Updated", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -500,7 +497,7 @@ namespace AltanaListener
             track.IsFavorite = !track.IsFavorite;
             item.Text = track.IsFavorite ? "★" : "☆";
 
-            savedTracks[track.FileName] = new TrackInfo
+            savedTracks[track.TrackId] = new TrackInfo // UPDATED to use TrackId
             {
                 TrackName = track.TrackName,
                 TrackAuthor = track.TrackAuthor,
@@ -531,7 +528,7 @@ namespace AltanaListener
                             item.SubItems[3].Text = track.TrackName;
                             item.SubItems[4].Text = track.TrackAuthor;
 
-                            savedTracks[track.FileName] = new TrackInfo
+                            savedTracks[track.TrackId] = new TrackInfo // UPDATED to use TrackId
                             {
                                 TrackName = track.TrackName,
                                 TrackAuthor = track.TrackAuthor,
@@ -603,7 +600,10 @@ namespace AltanaListener
                         string loadedAuthor = "";
                         bool loadedFav = false;
 
-                        if (savedTracks.TryGetValue(fileName, out TrackInfo savedInfo))
+                        // UPDATED to load using TrackId
+                        string trackId = $"{sFolder}_{fileName}";
+
+                        if (savedTracks.TryGetValue(trackId, out TrackInfo savedInfo))
                         {
                             loadedName = savedInfo.TrackName;
                             loadedAuthor = savedInfo.TrackAuthor;
@@ -658,7 +658,8 @@ namespace AltanaListener
             {
                 if (favsOnly && !track.IsFavorite) continue;
 
-                if (customPlaylistFiles != null && !customPlaylistFiles.Contains(track.FileName)) continue;
+                // UPDATED to filter by TrackId
+                if (customPlaylistFiles != null && !customPlaylistFiles.Contains(track.TrackId)) continue;
 
                 if (string.IsNullOrWhiteSpace(searchTerm) ||
                     track.FileName.ToLower().Contains(searchTerm) ||
@@ -898,6 +899,10 @@ namespace AltanaListener
     {
         public string SoundFolder { get; set; }
         public string FileName { get; set; }
+
+        // NEW: Creates a unique ID like "sound2_music181.bgw" to prevent overlaps
+        public string TrackId => $"{SoundFolder}_{FileName}";
+
         public string TrackName { get; set; }
         public string TrackAuthor { get; set; }
         public bool IsFavorite { get; set; }

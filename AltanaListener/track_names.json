@@ -1,1100 +1,1115 @@
 {
-  "music101.bgw": {
+  "sound_music101.bgw": {
     "TrackName": "Battle Theme",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music102.bgw": {
+  "sound_music102.bgw": {
     "TrackName": "Battle in the Dungeon",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music103.bgw": {
+  "sound_music103.bgw": {
     "TrackName": "Battle Theme #2 (Party)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music104.bgw": {
+  "sound_music104.bgw": {
     "TrackName": "Yughott Groto",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music025.bgw": {
+  "sound_music025.bgw": {
     "TrackName": "The Voracious Resurgence",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music026.bgw": {
+  "sound_music026.bgw": {
     "TrackName": "The Devoured",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music027.bgw": {
+  "sound_music027.bgw": {
     "TrackName": "Enroaching Perils",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music028.bgw": {
+  "sound_music028.bgw": {
     "TrackName": "The Destiny Destroyers",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music033.bgw": {
+  "sound_music033.bgw": {
     "TrackName": "Valhalla",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music105.bgw": {
+  "sound_music105.bgw": {
     "TrackName": "Mhaura",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music106.bgw": {
+  "sound_music106.bgw": {
     "TrackName": "Voyager",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music107.bgw": {
+  "sound_music107.bgw": {
     "TrackName": "The Kingdom of San d\u0027Oria",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music108.bgw": {
+  "sound_music108.bgw": {
     "TrackName": "Vana\u0027diel March",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music109.bgw": {
+  "sound_music109.bgw": {
     "TrackName": "Ronfaure",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music110.bgw": {
+  "sound_music110.bgw": {
     "TrackName": "The Grand Duchy of Jeuno",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music111.bgw": {
+  "sound_music111.bgw": {
     "TrackName": "Blackout (When you die)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music112.bgw": {
+  "sound_music112.bgw": {
     "TrackName": "Selbina",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music113.bgw": {
+  "sound_music113.bgw": {
     "TrackName": "Sarutabaruta",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music114.bgw": {
+  "sound_music114.bgw": {
     "TrackName": "Batallia Downs",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music115.bgw": {
+  "sound_music115.bgw": {
     "TrackName": "Battle in the Dungeon #2",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music116.bgw": {
+  "sound_music116.bgw": {
     "TrackName": "Gustaberg",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music117.bgw": {
+  "sound_music117.bgw": {
     "TrackName": "Ru\u0027Lude Gardens",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music118.bgw": {
+  "sound_music118.bgw": {
     "TrackName": "Rolanberry Fields",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music119.bgw": {
+  "sound_music119.bgw": {
     "TrackName": "Awakening",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music120.bgw": {
+  "sound_music120.bgw": {
     "TrackName": "Vana\u0027diel March #2",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music121.bgw": {
+  "sound_music121.bgw": {
     "TrackName": "Shadow Lord",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music122.bgw": {
+  "sound_music122.bgw": {
     "TrackName": "One Last Time",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music123.bgw": {
+  "sound_music123.bgw": {
     "TrackName": "Hopelessness",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music249.bgw": {
+  "sound5_music249.bgw": {
     "TrackName": "Run Maggot, Run!",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music250.bgw": {
+  "sound5_music250.bgw": {
     "TrackName": "Under a Clouded Moon",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music251.bgw": {
+  "sound5_music251.bgw": {
     "TrackName": "Autumn Footfalls",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music252.bgw": {
+  "sound5_music252.bgw": {
     "TrackName": "Flowers on the Battlefield",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music253.bgw": {
+  "sound5_music253.bgw": {
     "TrackName": "Echoes of a Zephyr",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music254.bgw": {
+  "sound5_music254.bgw": {
     "TrackName": "Griffons Never Die",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music900.bgw": {
+  "sound_music900.bgw": {
     "TrackName": "Distant Worlds w/ Vocals",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music129.bgw": {
+  "sound_music129.bgw": {
     "TrackName": "Hook, Line, and Sinker",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music130.bgw": {
+  "sound_music130.bgw": {
     "TrackName": "Tarutaru Female (Character Creation)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music131.bgw": {
+  "sound_music131.bgw": {
     "TrackName": "Elvaan Female (Character Creation)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music132.bgw": {
+  "sound_music132.bgw": {
     "TrackName": "Elvaan Male (Character Creation)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music133.bgw": {
+  "sound_music133.bgw": {
     "TrackName": "Hume Male (Character Creation)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music134.bgw": {
+  "sound2_music134.bgw": {
     "TrackName": "Yuhtunga Jungle",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music135.bgw": {
+  "sound2_music135.bgw": {
     "TrackName": "Kazham",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music136.bgw": {
+  "sound_music136.bgw": {
     "TrackName": "The Big One (Fishing)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music137.bgw": {
+  "sound_music137.bgw": {
     "TrackName": "A Realm of Emptiness",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music138.bgw": {
+  "sound4_music138.bgw": {
     "TrackName": "Mercenaries\u0027 Delight",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music139.bgw": {
+  "sound4_music139.bgw": {
     "TrackName": "Delve",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music140.bgw": {
+  "sound5_music140.bgw": {
     "TrackName": "Wings of the Goddess",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music029.bgw": {
+  "sound_music029.bgw": {
     "TrackName": "Devils\u0027 Delight",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music030.bgw": {
+  "sound_music030.bgw": {
     "TrackName": "Sojourner",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music031.bgw": {
+  "sound_music031.bgw": {
     "TrackName": "Black Stars Rise",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music032.bgw": {
+  "sound_music032.bgw": {
     "TrackName": "All Smiles",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music034.bgw": {
+  "sound_music034.bgw": {
     "TrackName": "We Are Vana\u0027diel",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music035.bgw": {
+  "sound4_music034.bgw": {
+    "TrackName": "We Are Vana\u0027diel",
+    "TrackAuthor": "",
+    "IsFavorite": false
+  },
+  "sound_music035.bgw": {
     "TrackName": "Goddessspeed",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music036.bgw": {
+  "sound_music036.bgw": {
     "TrackName": "Good Fortune",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music037.bgw": {
+  "sound_music037.bgw": {
     "TrackName": "All-Consuming Chaos",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music038.bgw": {
+  "sound_music038.bgw": {
     "TrackName": "Your Choice",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music040.bgw": {
+  "sound_music040.bgw": {
     "TrackName": "Cloister of Time and Souls",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music041.bgw": {
+  "sound_music041.bgw": {
     "TrackName": "Royal Wanderlust",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music042.bgw": {
+  "sound_music042.bgw": {
     "TrackName": "Snowdrift Waltz",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music043.bgw": {
+  "sound_music043.bgw": {
     "TrackName": "Troubled Shadows",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music044.bgw": {
+  "sound_music044.bgw": {
     "TrackName": "Where Lords Rule Not",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music045.bgw": {
+  "sound_music045.bgw": {
     "TrackName": "Summers Lost",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music046.bgw": {
+  "sound_music046.bgw": {
     "TrackName": "Goddess Divine",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music047.bgw": {
+  "sound6_music047.bgw": {
     "TrackName": "Echoes of Creation",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music048.bgw": {
+  "sound6_music048.bgw": {
     "TrackName": "Main Theme",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music049.bgw": {
+  "sound6_music049.bgw": {
     "TrackName": "Luck of the Mog",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music050.bgw": {
+  "sound6_music050.bgw": {
     "TrackName": "Feast of the Ladies",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music051.bgw": {
+  "sound_music051.bgw": {
     "TrackName": "Abyssea - Scarlet Skies, Shadowed Plains",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music053.bgw": {
+  "sound_music053.bgw": {
     "TrackName": "Shinryu",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music052.bgw": {
+  "sound_music052.bgw": {
     "TrackName": "Melodies Errant",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music054.bgw": {
+  "sound_music054.bgw": {
     "TrackName": "Everlasting Bonds",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music055.bgw": {
+  "sound_music055.bgw": {
     "TrackName": "Provenance Watcher",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music056.bgw": {
+  "sound_music056.bgw": {
     "TrackName": "Where it All Begins",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music057.bgw": {
+  "sound9_music057.bgw": {
     "TrackName": "Steel Sings, Blades Dance",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music058.bgw": {
+  "sound9_music058.bgw": {
     "TrackName": "A New Direction",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music059.bgw": {
+  "sound9_music059.bgw": {
     "TrackName": "The Pioneers",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music060.bgw": {
+  "sound9_music060.bgw": {
     "TrackName": "Into Lands Primeval - Ulbuka",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music061.bgw": {
+  "sound9_music061.bgw": {
     "TrackName": "Water\u0027s Umbral Knell",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music062.bgw": {
+  "sound9_music062.bgw": {
     "TrackName": "Keepers of the Wild",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music063.bgw": {
+  "sound9_music063.bgw": {
     "TrackName": "The Sacred City of Adoulin",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music064.bgw": {
+  "sound9_music064.bgw": {
     "TrackName": "Breaking Ground",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music065.bgw": {
+  "sound9_music065.bgw": {
     "TrackName": "Hades",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music066.bgw": {
+  "sound9_music066.bgw": {
     "TrackName": "Arciela",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music067.bgw": {
+  "sound9_music067.bgw": {
     "TrackName": "Mog Resort",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music068.bgw": {
+  "sound_music068.bgw": {
     "TrackName": "World Away",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music069.bgw": {
+  "sound9_music068.bgw": {
+    "TrackName": "World Away",
+    "TrackAuthor": "",
+    "IsFavorite": false
+  },
+  "sound_music069.bgw": {
     "TrackName": "Distant Worlds (Nanaa Mihgo\u0027s version)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music070.bgw": {
+  "sound_music070.bgw": {
     "TrackName": "Monstrosity",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music071.bgw": {
+  "sound_music071.bgw": {
     "TrackName": "The Pioneers (Nanaa Mihgo\u0027s version)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music072.bgw": {
+  "sound_music072.bgw": {
     "TrackName": "The Serpentine Labyrinth",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music073.bgw": {
+  "sound_music073.bgw": {
     "TrackName": "The Divine",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music074.bgw": {
+  "sound_music074.bgw": {
     "TrackName": "Clouds Over Ulbuka",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music075.bgw": {
+  "sound_music075.bgw": {
     "TrackName": "The Price",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music076.bgw": {
+  "sound_music076.bgw": {
     "TrackName": "Forever Today",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music077.bgw": {
+  "sound_music077.bgw": {
     "TrackName": "Distant Worlds (Instrumental)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music078.bgw": {
+  "sound_music078.bgw": {
     "TrackName": "Forever Today (Instrumental)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music079.bgw": {
+  "sound_music079.bgw": {
     "TrackName": "Iroha",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music080.bgw": {
+  "sound_music080.bgw": {
     "TrackName": "The Boundless Black",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music081.bgw": {
+  "sound_music081.bgw": {
     "TrackName": "Isle of the Gods",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music082.bgw": {
+  "sound_music082.bgw": {
     "TrackName": "Wail of the Void",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music083.bgw": {
+  "sound_music083.bgw": {
     "TrackName": "Rhapsodies of Vana\u0027diel",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music084.bgw": {
+  "sound_music084.bgw": {
     "TrackName": "Full Speed Ahead!",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music085.bgw": {
+  "sound_music085.bgw": {
     "TrackName": "Times Grow Tense",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music086.bgw": {
+  "sound_music086.bgw": {
     "TrackName": "Shadow Lord (Record Keeper Remix)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music087.bgw": {
+  "sound_music087.bgw": {
     "TrackName": "For a Friend",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music088.bgw": {
+  "sound_music088.bgw": {
     "TrackName": "Between Dreams and Reality",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music089.bgw": {
+  "sound_music089.bgw": {
     "TrackName": "Disjoined One",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music090.bgw": {
+  "sound_music090.bgw": {
     "TrackName": "Winds of Change",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music124.bgw": {
+  "sound_music124.bgw": {
     "TrackName": "Recollection",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music125.bgw": {
+  "sound_music125.bgw": {
     "TrackName": "Tough Battle",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music126.bgw": {
+  "sound_music126.bgw": {
     "TrackName": "Mog House",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music127.bgw": {
+  "sound_music127.bgw": {
     "TrackName": "Anxiety",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music128.bgw": {
+  "sound_music128.bgw": {
     "TrackName": "Airship",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music141.bgw": {
+  "sound5_music141.bgw": {
     "TrackName": "The Cosmic Wheel",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music142.bgw": {
+  "sound4_music142.bgw": {
     "TrackName": "Fated Strife -Besieged-",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music143.bgw": {
+  "sound4_music143.bgw": {
     "TrackName": "Hellriders",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music144.bgw": {
+  "sound4_music144.bgw": {
     "TrackName": "Rapid Onslaught -Assault-",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music145.bgw": {
+  "sound5_music145.bgw": {
     "TrackName": "Encampment Dreams",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music146.bgw": {
+  "sound4_music146.bgw": {
     "TrackName": "The Colosseum",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music147.bgw": {
+  "sound4_music147.bgw": {
     "TrackName": "Eastward Bound...",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music148.bgw": {
+  "sound4_music148.bgw": {
     "TrackName": "Forbidden Seal",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music149.bgw": {
+  "sound4_music149.bgw": {
     "TrackName": "Jeweled Boughs",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music150.bgw": {
+  "sound4_music150.bgw": {
     "TrackName": "Ululations from Beyond",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music151.bgw": {
+  "sound_music151.bgw": {
     "TrackName": "The Federation of Windurst",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music152.bgw": {
+  "sound_music152.bgw": {
     "TrackName": "The Republic of Bastok",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music153.bgw": {
+  "sound_music153.bgw": {
     "TrackName": "Prelude",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music154.bgw": {
+  "sound_music154.bgw": {
     "TrackName": "Metalworks",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music155.bgw": {
+  "sound_music155.bgw": {
     "TrackName": "Castle Zvahl",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music156.bgw": {
+  "sound_music156.bgw": {
     "TrackName": "Chateau d\u0027Oraguille",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music157.bgw": {
+  "sound_music157.bgw": {
     "TrackName": "Fury",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music158.bgw": {
+  "sound_music158.bgw": {
     "TrackName": "Sauromugue Champaign",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music159.bgw": {
+  "sound_music159.bgw": {
     "TrackName": "Sorrow",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music160.bgw": {
+  "sound_music160.bgw": {
     "TrackName": "Repression (Memoro de la Stono)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music161.bgw": {
+  "sound_music161.bgw": {
     "TrackName": "Despair (Memoro de la Stono)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music162.bgw": {
+  "sound_music162.bgw": {
     "TrackName": "Heavens Tower",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music163.bgw": {
+  "sound_music163.bgw": {
     "TrackName": "Sometime, Somewhere",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music164.bgw": {
+  "sound_music164.bgw": {
     "TrackName": "Xarcabard",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music165.bgw": {
+  "sound_music165.bgw": {
     "TrackName": "Galka (Character Creation)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music166.bgw": {
+  "sound_music166.bgw": {
     "TrackName": "Mithra (Character Creation)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music167.bgw": {
+  "sound_music167.bgw": {
     "TrackName": "Tarutaru Male (Character Creation)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music168.bgw": {
+  "sound_music168.bgw": {
     "TrackName": "Hume Female (Character Creation)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music169.bgw": {
+  "sound_music169.bgw": {
     "TrackName": "Regeneracy",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music170.bgw": {
+  "sound_music170.bgw": {
     "TrackName": "Buccaneers",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music171.bgw": {
+  "sound2_music171.bgw": {
     "TrackName": "Altepa Desert",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music172.bgw": {
+  "sound4_music172.bgw": {
     "TrackName": "Black Coffin",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music173.bgw": {
+  "sound4_music173.bgw": {
     "TrackName": "Illusions in the Mist",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music174.bgw": {
+  "sound4_music174.bgw": {
     "TrackName": "Whispers of the Gods",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music175.bgw": {
+  "sound4_music175.bgw": {
     "TrackName": "Bandits\u0027 Market",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music176.bgw": {
+  "sound4_music176.bgw": {
     "TrackName": "Circuit de Chocobo",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music177.bgw": {
+  "sound4_music177.bgw": {
     "TrackName": "Run Chocobo, Run!",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music178.bgw": {
+  "sound4_music178.bgw": {
     "TrackName": "Bustle of the Capital",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music179.bgw": {
+  "sound4_music179.bgw": {
     "TrackName": "Vana\u0027diel March #4",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music180.bgw": {
+  "sound5_music180.bgw": {
     "TrackName": "Thunder of the March",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music181.bgw": {
+  "sound2_music181.bgw": {
+    "TrackName": "Dash de Chocobo - Low Quality",
+    "TrackAuthor": "",
+    "IsFavorite": false
+  },
+  "sound5_music181.bgw": {
     "TrackName": "Griffons Never Die",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music182.bgw": {
+  "sound5_music182.bgw": {
     "TrackName": "Stargazing",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music183.bgw": {
+  "sound4_music183.bgw": {
     "TrackName": "A Puppet\u0027s Slumber",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music184.bgw": {
+  "sound4_music184.bgw": {
     "TrackName": "Eternal Gravestone",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music185.bgw": {
+  "sound4_music185.bgw": {
     "TrackName": "Ever-Turning Wheels",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music186.bgw": {
+  "sound4_music186.bgw": {
     "TrackName": "Iron Colossus",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music187.bgw": {
+  "sound4_music187.bgw": {
     "TrackName": "Ragnarok",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music188.bgw": {
+  "sound_music188.bgw": {
     "TrackName": "Choc-a-bye Baby",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music189.bgw": {
+  "sound_music189.bgw": {
     "TrackName": "An Invisible Crown",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music190.bgw": {
+  "sound2_music190.bgw": {
     "TrackName": "The Sanctuary of Zi\u0027Tah",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music191.bgw": {
+  "sound2_music191.bgw": {
     "TrackName": "Battle Theme #3",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music192.bgw": {
+  "sound2_music192.bgw": {
     "TrackName": "Battle in the Dungeon #3",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music193.bgw": {
+  "sound2_music193.bgw": {
     "TrackName": "Tough Battle #2",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music194.bgw": {
+  "sound2_music194.bgw": {
     "TrackName": "Bloody Promises",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music195.bgw": {
+  "sound2_music195.bgw": {
     "TrackName": "Belief",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music196.bgw": {
+  "sound2_music196.bgw": {
     "TrackName": "Fighters of the Crystal",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music197.bgw": {
+  "sound2_music197.bgw": {
     "TrackName": "To the Heavens",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music198.bgw": {
+  "sound2_music198.bgw": {
     "TrackName": "Eald\u0027narche",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music199.bgw": {
+  "sound2_music199.bgw": {
     "TrackName": "Grav\u0027iton",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music200.bgw": {
+  "sound2_music200.bgw": {
     "TrackName": "Hidden Truths",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music201.bgw": {
+  "sound2_music201.bgw": {
     "TrackName": "End Theme",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music202.bgw": {
+  "sound2_music202.bgw": {
     "TrackName": "Moongate (Memoro de la Stono)",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music203.bgw": {
+  "sound2_music203.bgw": {
     "TrackName": "Ancient Verse of Uggalepih",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music204.bgw": {
+  "sound2_music204.bgw": {
     "TrackName": "Ancient Verse of Ro\u0027Maeve",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music205.bgw": {
+  "sound2_music205.bgw": {
     "TrackName": "Ancient Verse of Altepa",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music206.bgw": {
+  "sound2_music206.bgw": {
     "TrackName": "Revenant Maiden",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music207.bgw": {
+  "sound2_music207.bgw": {
     "TrackName": "Ve\u0027Lugannon Palace",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music208.bgw": {
+  "sound2_music208.bgw": {
     "TrackName": "Rabao",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music209.bgw": {
+  "sound2_music209.bgw": {
     "TrackName": "Norg",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music210.bgw": {
+  "sound2_music210.bgw": {
     "TrackName": "Tu\u0027Lia",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music211.bgw": {
+  "sound2_music211.bgw": {
     "TrackName": "Ro\u0027Maeve",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music212.bgw": {
+  "sound2_music212.bgw": {
     "TrackName": "Dash de Chocobo",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music213.bgw": {
+  "sound2_music213.bgw": {
     "TrackName": "Hall of the Gods",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music214.bgw": {
+  "sound2_music214.bgw": {
     "TrackName": "Eternal Oath",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music215.bgw": {
+  "sound5_music215.bgw": {
     "TrackName": "Clash of Standards",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music216.bgw": {
+  "sound5_music216.bgw": {
     "TrackName": "On this Blade",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music217.bgw": {
+  "sound5_music217.bgw": {
     "TrackName": "Kindred Cry",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music218.bgw": {
+  "sound3_music218.bgw": {
     "TrackName": "Depths of the Soul",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music219.bgw": {
+  "sound3_music219.bgw": {
     "TrackName": "Onslaught",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music220.bgw": {
+  "sound3_music220.bgw": {
     "TrackName": "Turmoil",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music221.bgw": {
+  "sound3_music221.bgw": {
     "TrackName": "Moblin Menagerie - Movalpolos",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music222.bgw": {
+  "sound3_music222.bgw": {
     "TrackName": "Faded Memories - Promyvion",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music223.bgw": {
+  "sound3_music223.bgw": {
     "TrackName": "Conflict: March of the Hero",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music224.bgw": {
+  "sound3_music224.bgw": {
     "TrackName": "Dusk and Dawn",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music225.bgw": {
+  "sound3_music225.bgw": {
     "TrackName": "Words Unspoken - Pso\u0027Xja",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music226.bgw": {
+  "sound3_music226.bgw": {
     "TrackName": "Conflict: You Want to Live Forever?",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music227.bgw": {
+  "sound_music227.bgw": {
     "TrackName": "Sunbreeze Shuffle",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music228.bgw": {
+  "sound3_music228.bgw": {
     "TrackName": "Gates of Paradise - The Garden of Ru\u0027Hmet",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music229.bgw": {
+  "sound3_music229.bgw": {
     "TrackName": "Currents of Time",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music230.bgw": {
+  "sound3_music230.bgw": {
     "TrackName": "A New Horizon - Tavnazian Archipelago",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music231.bgw": {
+  "sound3_music231.bgw": {
     "TrackName": "Celestial Thunder",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music232.bgw": {
+  "sound3_music232.bgw": {
     "TrackName": "The Ruler of the Skies",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music233.bgw": {
+  "sound3_music233.bgw": {
     "TrackName": "The Celestial Capital - Al\u0027Taieu",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music234.bgw": {
+  "sound3_music234.bgw": {
     "TrackName": "Happily Ever After",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music235.bgw": {
+  "sound3_music235.bgw": {
     "TrackName": "First Ode: Nocturne of the Gods",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music236.bgw": {
+  "sound3_music236.bgw": {
     "TrackName": "Fourth Ode: Clouded Dawn",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music237.bgw": {
+  "sound3_music237.bgw": {
     "TrackName": "Third Ode: Memoria de la Stona",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music238.bgw": {
+  "sound3_music238.bgw": {
     "TrackName": "A New Morning",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music239.bgw": {
+  "sound3_music239.bgw": {
     "TrackName": "Jeuno -Starlight Celebration-",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music240.bgw": {
+  "sound3_music240.bgw": {
     "TrackName": "Second Ode: Distant Promises",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music241.bgw": {
+  "sound3_music241.bgw": {
     "TrackName": "Fifth Ode: A Time for Prayer",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music242.bgw": {
+  "sound3_music242.bgw": {
     "TrackName": "Unity",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music243.bgw": {
+  "sound3_music243.bgw": {
     "TrackName": "Grav\u0027iton",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music244.bgw": {
+  "sound3_music244.bgw": {
     "TrackName": "Revenant Maiden",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music245.bgw": {
+  "sound3_music245.bgw": {
     "TrackName": "The Forgotten City - Tavnazian Safehold",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music246.bgw": {
+  "sound5_music246.bgw": {
     "TrackName": "March of the Allied Forces",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music247.bgw": {
+  "sound5_music247.bgw": {
     "TrackName": "Roar of the Battle Drums",
     "TrackAuthor": "",
     "IsFavorite": false
   },
-  "music248.bgw": {
+  "sound5_music248.bgw": {
     "TrackName": "Young Griffons in Flight",
     "TrackAuthor": "",
     "IsFavorite": false
