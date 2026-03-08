@@ -37,4 +37,10 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="track_names.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>  
+
 </Project>
