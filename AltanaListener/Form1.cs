@@ -64,6 +64,10 @@ namespace AltanaListener
         {
             InitializeComponent();
 
+            // Automatically grab the assembly version so we never have to hardcode the label
+            Version appVersion = System.Reflection.Assembly.GetExecutingAssembly().GetName().Version;
+            if (label1 != null) label1.Text = $"Version {appVersion.Major}.{appVersion.Minor}.{appVersion.Build}";
+
             LoadSettings();
 
             if (tbVolume != null) tbVolume.Value = currentSettings.Volume;
