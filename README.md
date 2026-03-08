@@ -7,7 +7,7 @@
 Welcome to AltanaListener! If you want to sit back, relax, and listen to the beautiful music of Vana'diel without logging into the game, you are in the right place. 
 
 ## 📖 Why AltanaListener?
-You might be familiar with my other project, [AltanaViewer](https://github.com/voliathon/AltanaViewer). While that tool has its uses, it is closed source and notoriously has issues when it comes to playing music. If your goal is simply to listen to FFXI songs, AltanaViewer is a subpar solution. 
+You might be familiar with a project I work on called [AltanaViewer](https://github.com/voliathon/AltanaViewer). While that tool has its uses, it is closed source and notoriously has issues when it comes to playing music. If your goal is simply to listen to FFXI songs, AltanaViewer is a subpar solution. 
 
 **AltanaListener** was built from the ground up to fix that. It is completely open-source, highly stable, and engineered purely for the best audio experience possible.
 
